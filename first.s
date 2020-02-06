@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+//Michael Merid
+
 @ first program
 .section .data 
 .section .text
@@ -11,7 +12,9 @@ _start:
     mov r7,#1	    @ Program Termination: exit syscall
     svc #0	    @ Program Termination : wake kernel
 .end
-=======
+
+//Michael Merid
+
 .section .data
 .section .text
 .global _start
