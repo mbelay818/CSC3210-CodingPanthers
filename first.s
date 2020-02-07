@@ -1,5 +1,4 @@
 //Michael Merid
-
 @ first program
 .section .data 
 .section .text
